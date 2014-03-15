@@ -1,0 +1,34 @@
+[Icon Theme]
+Name=Novo Project
+Comment=Early work on the next KDE icon theme
+Inherits=
+
+Directories=actions/scalable,categories/scalable,mimetypes/scalable,places/scalable
+
+[actions/scalable]
+Size=22
+Context=Actions
+Type=Scalable
+MinSize=22
+MaxSize=24
+
+[categories/scalable]
+Size=22
+Context=Categories
+Type=Scalable
+MinSize=16
+MaxSize=22
+
+[mimetypes/scalable]
+Size=54
+Context=Places
+Type=Scalable
+MinSize=24
+MaxSize=512
+
+[places/scalable]
+Size=64
+Context=Places
+Type=Scalable
+MinSize=24
+MaxSize=512
