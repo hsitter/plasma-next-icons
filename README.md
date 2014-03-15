@@ -1,4 +1,19 @@
-plasma-next-icons
-=================
+Novo Project
+==============
 
-Temporary repository for the Plasma Next icon theme.
+Temporary repository for the early work on the next KDE icon theme.
+
+Novo is (or will be) the new icon theme for KDE, the set is a work in progress and it's fairly incomplete. 
+
+![Novo preview](http://i.imgur.com/LQFd4wQ.png "Novo is the next icon theme for KDE")
+
+Icons are licensed under the GPLv3
+
+Give your feedback!
+-------------
+
+* You are free to clone this public repository:
+
+`git clone https://github.com/NitruxSA/flattr-icons.git`
+
+You will need Inkscape to modify the SVG files.
