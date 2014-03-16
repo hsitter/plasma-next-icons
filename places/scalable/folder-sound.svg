@@ -189,8 +189,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568543"
-     inkscape:cx="14.618625"
-     inkscape:cy="38.308378"
+     inkscape:cx="27.7001"
+     inkscape:cy="37.954825"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -410,50 +410,10 @@
        d="M 59.734375 16 C 59.499995 16.00014 59.25 16.013672 59 16.013672 L 58.851562 16.013672 C 59.44558 16.042613 59.900391 16.211416 59.900391 17.013672 L 59.900391 20.011719 L 59.900391 21.011719 L 59.900391 57 C 59.900391 57.55381 59.454391 58 58.900391 58 L 60 58 C 60.554 58 61 57.55381 61 57 L 61 21.011719 L 61 20.011719 L 61 17.013672 C 61 16.112582 60.437495 15.99957 59.734375 16 z "
        transform="translate(384.57143,483.798)"
        id="path4143" />
-    <rect
+    <path
        style="fill:#387ecc;fill-opacity:1;stroke:none"
-       id="rect4128"
-       width="5.9999738"
-       height="5.9999738"
-       x="406.57144"
-       y="524.79797"
-       ry="2.9999869" />
-    <rect
-       style="fill:#387ecc;fill-opacity:1;stroke:none"
-       id="rect4130"
-       width="5.9999881"
-       height="5.9999881"
-       x="420.57144"
-       y="521.79803"
-       ry="2.9999869" />
-    <rect
-       style="fill:#387ecc;fill-opacity:1;stroke:none"
-       id="rect4132"
-       width="1"
-       height="13.999992"
-       x="425.57144"
-       y="510.798"
-       ry="0" />
-    <rect
-       style="fill:#387ecc;fill-opacity:1;stroke:none"
-       id="rect4134"
-       width="1"
-       height="16.999992"
-       x="411.57144"
-       y="510.798" />
-    <rect
-       style="fill:#387ecc;fill-opacity:1;stroke:none"
-       id="rect4136"
-       width="15.000004"
-       height="1.9999958"
-       x="411.57144"
-       y="510.798" />
-    <rect
-       style="fill:#387ecc;fill-opacity:1;stroke:none"
-       id="rect4138"
-       width="15.000002"
-       height="1"
-       x="411.57144"
-       y="514.79797" />
+       d="M 27 27 L 27 29 L 27 31 L 27 32 L 27 41.775391 C 26.469126 41.298212 25.773294 41 25 41 C 23.338007 41 22 42.338007 22 44 C 22 45.661993 23.338007 47 25 47 C 26.661993 47 28 45.661993 28 44 L 28 32 L 41 32 L 41 38.775391 C 40.469126 38.298212 39.773294 38 39 38 C 37.338007 38 36 39.338007 36 41 C 36 42.661993 37.338007 44 39 44 C 40.661993 44 42 42.661993 42 41 L 42 27 L 27 27 z M 28 29 L 41 29 L 41 31 L 28 31 L 28 29 z "
+       transform="translate(384.57143,483.798)"
+       id="rect4128" />
   </g>
 </svg>
