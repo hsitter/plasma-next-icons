@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.49 r12742"
    viewBox="0 0 22.000001 22"
-   sodipodi:docname="window-close.svg">
+   sodipodi:docname="list-add.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -93,20 +93,23 @@
      id="layer1"
      transform="translate(0,-1030.3622)">
     <rect
-       style="fill:#da4453;fill-opacity:1;stroke:none"
-       id="rect4103"
-       width="21.628"
-       height="0.9999823"
-       x="733.31848"
-       y="728.07611"
-       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect4072"
+       width="0.99999976"
+       height="15.999999"
+       x="10.500001"
+       y="1033.3622"
+       rx="29.214605"
+       ry="0" />
     <rect
-       transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)"
-       y="-744.63245"
-       x="-739.39008"
-       height="0.9999823"
-       width="21.628"
-       id="rect4105"
-       style="fill:#da4453;fill-opacity:1;stroke:none" />
+       ry="0"
+       rx="29.214605"
+       y="-19"
+       x="1040.8622"
+       height="15.999999"
+       width="0.99999976"
+       id="rect4074"
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       transform="matrix(0,1,-1,0,0,0)" />
   </g>
 </svg>
