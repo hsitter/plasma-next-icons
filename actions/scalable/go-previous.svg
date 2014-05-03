@@ -13,9 +13,9 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.49 r12742"
+   inkscape:version="0.48+devel r"
    viewBox="0 0 21.999999 22"
-   sodipodi:docname="go-previous.svg">
+   sodipodi:docname="back.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.627417"
-     inkscape:cx="6.9223155"
-     inkscape:cy="15.165542"
+     inkscape:zoom="11.313709"
+     inkscape:cx="2.4197483"
+     inkscape:cy="15.315842"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -229,7 +229,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -238,26 +238,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1030.3622)">
-    <rect
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       id="rect4176"
-       width="8.6620579"
-       height="1"
-       x="743.45569"
-       y="730.90454"
-       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
-    <rect
-       transform="matrix(0.70710678,-0.70710678,-0.70710678,-0.70710678,0,0)"
-       y="-741.80402"
-       x="-729.25287"
-       height="1"
-       width="8.6620579"
-       id="rect4184"
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
     <path
-       style="fill:#4d4d4d;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="m 8.1678947,1043.2372 0.7071067,-0.7071 -1.1681677,-1.1682 1.1681678,-1.1681 -0.7071069,-0.7071 -1.8752745,1.8752 z"
-       id="path4224"
-       inkscape:connector-curvature="0" />
+       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="M 14.292969 3 L 8.1679688 9.125 L 6.2929688 11 L 8.1679688 12.875 L 14.292969 19 L 15 18.292969 L 8.875 12.167969 L 7.7070312 11 L 8.875 9.8320312 L 15 3.7070312 L 14.292969 3 z "
+       transform="translate(-5e-7,1030.3622)"
+       id="rect4176" />
   </g>
 </svg>
