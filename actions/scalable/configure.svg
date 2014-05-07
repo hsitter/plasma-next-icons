@@ -24,19 +24,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="54.743703"
-     inkscape:cx="6.6543791"
-     inkscape:cy="12.430369"
+     inkscape:zoom="38.709644"
+     inkscape:cx="10.371399"
+     inkscape:cy="10.062323"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="668"
      inkscape:window-x="-2"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
      inkscape:showpageshadow="false"
-     showguides="false">
+     showguides="true">
     <inkscape:grid
        type="xygrid"
        id="grid3307" />
@@ -92,8 +92,38 @@
      transform="translate(0,-1030.3622)">
     <path
        style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 3 3 L 3 19 L 4 19 L 19 19 L 19 18 L 19 3 L 18 3 L 4 3 L 3 3 z M 4 7 L 18 7 L 18 18 L 4 18 L 4 7 z M 7 8 C 5.8920001 8 5 8.892 5 10 C 5 11.108 5.8920001 12 7 12 C 8.108 12 9 11.108 9 10 C 9 8.892 8.108 8 7 8 z M 7 9 C 7.554 9 8 9.446 8 10 C 8 10.554 7.554 11 7 11 C 6.446 11 6 10.554 6 10 C 6 9.446 6.446 9 7 9 z M 11 9 L 11 10 L 17 10 L 17 9 L 11 9 z M 7 13 C 5.8919826 13 5 13.891983 5 15 C 5 16.108017 5.8919826 17 7 17 C 8.1080174 17 9 16.108017 9 15 C 9 13.891983 8.1080174 13 7 13 z M 11 15 L 11 16 L 15 16 L 15 15 L 11 15 z "
+       d="m 3,3 0,16 1,0 15,0 0,-1 L 19,3 18,3 4,3 Z m 1,4 14,0 0,11 -14,0 z"
        transform="translate(0,1030.3622)"
-       id="rect3341" />
+       id="rect3341"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccc" />
+    <rect
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect4110"
+       width="6"
+       height="1"
+       x="11"
+       y="1039.3624" />
+    <path
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
+       d="m 5,8 0,9 5,0 0,-9 z"
+       transform="translate(0,1030.3622)"
+       id="rect4125"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect4127"
+       width="2"
+       height="1"
+       x="11"
+       y="1045.3622" />
+    <rect
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
+       id="rect4132"
+       width="4"
+       height="1"
+       x="11"
+       y="1042.3622" />
   </g>
 </svg>
