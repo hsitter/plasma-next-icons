@@ -89,10 +89,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient4227"
        id="linearGradient4860"
-       x1="391.57144"
-       y1="523.29797"
-       x2="426.57144"
-       y2="523.29797"
+       x1="392.57144"
+       y1="518.79797"
+       x2="411.57147"
+       y2="537.79797"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-384.57143,-499.798)" />
     <linearGradient
@@ -132,9 +132,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568545"
-     inkscape:cx="36.50023"
-     inkscape:cy="20.964643"
+     inkscape:zoom="8.0000004"
+     inkscape:cx="15.993327"
+     inkscape:cy="18.086173"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -309,7 +309,7 @@
        x="391.57144"
        y="528.79822" />
     <path
-       style="fill:url(#linearGradient4860);fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       style="fill:url(#linearGradient4860);fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.4"
        d="M 7 19 L 16 28 L 17 29 L 41 29 L 41 35 L 23 35 L 32 44 L 42 44 L 42 29 L 42 21 L 42 20.732422 L 41 19 L 40.845703 19 L 7 19 z "
        transform="translate(384.57143,499.798)"
        id="path4783" />
