@@ -3,7 +3,7 @@ Name=Novo Project
 Comment=Early work on the next KDE icon theme
 Inherits=
 
-Directories=actions/scalable,actions/small,apps/preferences,apps/scalable,apps/small,categories/scalable,categories/preferences,mimetypes/scalable,places/scalable,places/small
+Directories=actions/scalable,actions/small,apps/preferences,apps/scalable,apps/small,categories/scalable,categories/preferences,categories/small,mimetypes/scalable,places/scalable,places/small
 
 [actions/scalable]
 Size=22
@@ -43,6 +43,11 @@ MaxSize=22
 
 [categories/preferences]
 Size=32
+Context=Categories
+Type=Fixed
+
+[categories/small]
+Size=16
 Context=Categories
 Type=Fixed
 
