@@ -13,7 +13,7 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.49 r12742"
+   inkscape:version="0.48+devel r"
    viewBox="0 0 22 22"
    sodipodi:docname="document-open-remote.svg">
   <defs
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.678384"
-     inkscape:cx="10.367977"
-     inkscape:cy="6.224249"
+     inkscape:zoom="22.8375"
+     inkscape:cx="-0.15675202"
+     inkscape:cy="5.5107656"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="668"
      inkscape:window-x="-2"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
@@ -94,29 +94,8 @@
      transform="translate(0,-1030.3622)">
     <path
        style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 3,3 3,4 3,15 4,15 4,10 7,10 7,9.99219 7.00781,10 l 2,-2 L 18,8 l 0,7 1,0 0,-10 -6.992188,0 -2,-2 L 10,3.0078125 10,3 4,3 Z"
+       d="M 3 3 L 3 4 L 3 15 L 4 15 L 4 10 L 7 10 L 7 9.9921875 L 7.0078125 10 L 9.0078125 8 L 18 8 L 18 15 L 19 15 L 19 5 L 12.007812 5 L 10.007812 3 L 10 3.0078125 L 10 3 L 4 3 L 3 3 z M 9 16 L 9 17 L 3 17 L 3 18 L 9 18 L 9 19 L 13 19 L 13 18 L 19 18 L 19 17 L 13 17 L 13 16 L 9 16 z M 11 16.5 C 11.554 16.5 12 16.946 12 17.5 C 12 18.054 11.554 18.5 11 18.5 C 10.446 18.5 10 18.054 10 17.5 C 10 16.946 10.446 16.5 11 16.5 z "
        transform="translate(0,1030.3622)"
-       id="rect4069"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccc" />
-    <path
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="m 9,1046.3622 0,3 4,0 0,-3 -4,0 z m 2,0.5 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z"
-       id="rect3272"
-       inkscape:connector-curvature="0" />
-    <rect
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       id="rect3274"
-       width="6"
-       height="1"
-       x="3"
-       y="1047.3619" />
-    <rect
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       id="rect3276"
-       width="6"
-       height="1"
-       x="13"
-       y="1047.3619" />
+       id="rect4069" />
   </g>
 </svg>

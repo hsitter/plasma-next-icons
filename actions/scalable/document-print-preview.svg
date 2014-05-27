@@ -13,8 +13,8 @@
    height="22"
    id="svg952"
    version="1.1"
-   inkscape:version="0.49 r12742"
-   sodipodi:docname="edit-find.svg">
+   inkscape:version="0.48+devel r"
+   sodipodi:docname="document-print-preview.svg">
   <defs
      id="defs954" />
   <sodipodi:namedview
@@ -24,14 +24,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="7.1604848"
+     inkscape:zoom="32.625"
+     inkscape:cx="2.0723622"
      inkscape:cy="2.4777511"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="668"
      inkscape:window-x="-2"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
@@ -131,7 +131,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -142,13 +142,8 @@
      transform="translate(0,-1030.3622)">
     <path
        style="fill:#4d4d4d;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="m 12.29286,1043.3622 0.707107,-0.7071 6.000032,6 -0.707075,0.7071 z"
-       id="path4146"
-       inkscape:connector-curvature="0" />
-    <path
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 9 3 C 5.6759952 3 3 5.6759952 3 9 C 3 12.324005 5.6759952 15 9 15 C 12.324005 15 15 12.324005 15 9 C 15 5.6759952 12.324005 3 9 3 z M 9 4 C 11.770005 4 14 6.2299952 14 9 C 14 11.770005 11.770005 14 9 14 C 6.2299952 14 4 11.770005 4 9 C 4 6.2299952 6.2299952 4 9 4 z "
+       d="M 9 3 C 5.6759952 3 3 5.6759952 3 9 C 3 12.324005 5.6759952 15 9 15 C 10.481205 15 11.830584 14.465318 12.875 13.582031 L 18.292969 19 L 19 18.292969 L 13.582031 12.875 C 14.465318 11.830584 15 10.481205 15 9 C 15 5.6759952 12.324005 3 9 3 z M 9 4 C 11.770005 4 14 6.2299952 14 9 C 14 11.770005 11.770005 14 9 14 C 6.2299952 14 4 11.770005 4 9 C 4 6.2299952 6.2299952 4 9 4 z "
        transform="translate(0,1030.3622)"
-       id="rect4095" />
+       id="path4146" />
   </g>
 </svg>

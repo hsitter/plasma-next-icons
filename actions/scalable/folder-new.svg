@@ -13,9 +13,9 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.49 r12742"
+   inkscape:version="0.48+devel r"
    viewBox="0 0 22 22"
-   sodipodi:docname="folder-insert.svg">
+   sodipodi:docname="folder-new.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.678383"
-     inkscape:cx="11.333221"
-     inkscape:cy="9.7475744"
+     inkscape:zoom="22.837499"
+     inkscape:cx="5.3948914"
+     inkscape:cy="11.66718"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:showpageshadow="false"
      borderlayer="true"
      inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-height="668"
      inkscape:window-x="-2"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
@@ -115,7 +115,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -124,25 +124,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1030.3622)">
-    <rect
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       id="rect4127"
-       width="5"
-       height="0.9999826"
-       x="14.000004"
-       y="1046.3619" />
-    <rect
-       y="-16.999994"
-       x="1044.3619"
-       height="0.9999826"
-       width="5"
-       id="rect4131"
-       style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       transform="matrix(0,1,-1,0,0,0)" />
     <path
        style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 3 3 L 3 4 L 3 19 L 4 19 L 13 19 L 13 18 L 4 18 L 4 10 L 7 10 L 7 9.9902344 L 7.0078125 10 L 9.0078125 8 L 18 8 L 18 13 L 19 13 L 19 5 L 12.007812 5 L 10.007812 3 L 10 3.0097656 L 10 3 L 4 3 L 3 3 z "
+       d="M 3 3 L 3 4 L 3 19 L 4 19 L 13 19 L 13 18 L 4 18 L 4 10 L 7 10 L 7 9.9902344 L 7.0078125 10 L 9.0078125 8 L 18 8 L 18 13 L 19 13 L 19 5 L 12.007812 5 L 10.007812 3 L 10 3.0097656 L 10 3 L 4 3 L 3 3 z M 16 14 L 16 16 L 14 16 L 14 17 L 16 17 L 16 19 L 17 19 L 17 17 L 19 17 L 19 16 L 17 16 L 17 14 L 16 14 z "
        transform="translate(0,1030.3622)"
-       id="rect4069" />
+       id="rect4127" />
   </g>
 </svg>
