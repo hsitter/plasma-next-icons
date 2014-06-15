@@ -89,9 +89,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.3808899"
-     inkscape:cx="40.644882"
-     inkscape:cy="23.451765"
+     inkscape:zoom="8.5118413"
+     inkscape:cx="11.37674"
+     inkscape:cy="25.868836"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -247,5 +247,13 @@
        d="M 4 43 L 4 44 L 20 44 L 21 43 L 4 43 z M 43 43 L 44 44 L 44 43 L 43 43 z "
        transform="translate(384.57143,499.798)"
        id="rect4138" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.23529412;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
+       id="rect4175"
+       width="18"
+       height="1"
+       x="399.57144"
+       y="514.79797"
+       ry="0" />
   </g>
 </svg>
