@@ -1,11 +1,11 @@
-Novo Project
+Breeze
 ==============
 
 Temporary repository for the early work on the next KDE icon theme.
 
-Novo is (or will be) the new icon theme for KDE, the set is a work in progress and it's fairly incomplete. 
+Breeze is the new icon theme for KDE, the set is a work in progress and it's fairly incomplete. 
 
-![Novo preview](http://i.imgur.com/LQFd4wQ.png "Novo is the next icon theme for KDE")
+![Breeze preview](http://i.imgur.com/LQFd4wQ.png "Novo is the next icon theme for KDE")
 
 Icons are licensed under the GPLv3
 

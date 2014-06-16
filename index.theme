@@ -1,6 +1,6 @@
 [Icon Theme]
-Name=Novo Project
-Comment=Early work on the next KDE icon theme
+Name=Breeze
+Comment=The next Plasma icon theme
 Inherits=
 
 Directories=actions/scalable,actions/small,apps/preferences,apps/scalable,apps/small,categories/scalable,categories/preferences,categories/small,mimetypes/scalable,places/scalable,places/small
