@@ -14,7 +14,7 @@
    id="svg3760"
    version="1.1"
    inkscape:version="0.48+devel r"
-   sodipodi:docname="tab-new.svg">
+   sodipodi:docname="system-shutdown.svg">
   <defs
      id="defs3762" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.971017"
-     inkscape:cx="12.019312"
-     inkscape:cy="8.7247985"
+     inkscape:zoom="48.848079"
+     inkscape:cx="9.2138812"
+     inkscape:cy="14.36679"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -39,7 +39,8 @@
      inkscape:window-x="-2"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="false"
+     showguides="true">
     <sodipodi:guide
        position="4.1796875e-06,21.999997"
        orientation="22,0"
@@ -110,9 +111,9 @@
      id="layer1"
      transform="translate(-553.72253,-583.11926)">
     <path
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 3 3 L 3 4 L 3 18 L 3 19 L 13 19 L 13 18 L 4 18 L 4 4 L 8 4 L 8 7 L 16 7 L 18 7 L 18 13 L 19 13 L 19 6 L 18 6 L 16 6 L 16 3 L 8 3 L 4 3 L 3 3 z M 16 14 L 16 16 L 14 16 L 14 17 L 16 17 L 16 19 L 17 19 L 17 17 L 19 17 L 19 16 L 17 16 L 17 14 L 16 14 z "
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
+       d="M 10 3 L 10 10 L 12 10 L 12 3 L 10 3 z M 9 3.265625 C 5.5444518 4.1502188 3 7.2610109 3 11 C 3 15.432 6.568 19 11 19 C 15.432 19 19 15.432 19 11 C 19 7.2610109 16.455548 4.1502188 13 3.265625 L 13 4.3027344 C 15.895041 5.15992 18 7.819625 18 11 C 18 14.878 14.878 18 11 18 C 7.122 18 4 14.878 4 11 C 4 7.819625 6.1049587 5.15992 9 4.3027344 L 9 3.265625 z "
        transform="translate(553.72253,583.11926)"
-       id="rect4179" />
+       id="rect4149" />
   </g>
 </svg>

@@ -14,7 +14,7 @@
    id="svg3760"
    version="1.1"
    inkscape:version="0.48+devel r"
-   sodipodi:docname="tab-new.svg">
+   sodipodi:docname="system-suspend-hibernate.svg">
   <defs
      id="defs3762" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.971017"
-     inkscape:cx="12.019312"
-     inkscape:cy="8.7247985"
+     inkscape:zoom="25.193254"
+     inkscape:cx="11.52705"
+     inkscape:cy="12.792249"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -39,7 +39,8 @@
      inkscape:window-x="-2"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="false"
+     showguides="true">
     <sodipodi:guide
        position="4.1796875e-06,21.999997"
        orientation="22,0"
@@ -110,9 +111,9 @@
      id="layer1"
      transform="translate(-553.72253,-583.11926)">
     <path
-       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 3 3 L 3 4 L 3 18 L 3 19 L 13 19 L 13 18 L 4 18 L 4 4 L 8 4 L 8 7 L 16 7 L 18 7 L 18 13 L 19 13 L 19 6 L 18 6 L 16 6 L 16 3 L 8 3 L 4 3 L 3 3 z M 16 14 L 16 16 L 14 16 L 14 17 L 16 17 L 16 19 L 17 19 L 17 17 L 19 17 L 19 16 L 17 16 L 17 14 L 16 14 z "
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.55026455"
+       d="M 11 3 C 10.446001 3 10 3.4460008 10 4 C 10 4.5539992 10.446001 5 11 5 C 11.553999 5 12 4.5539992 12 4 C 12 3.4460008 11.553999 3 11 3 z M 5.7070312 5 L 5 5.7070312 L 6.2929688 7 L 7 6.2929688 L 5.7070312 5 z M 16.292969 5 L 15 6.2929688 L 15.707031 7 L 17 5.7070312 L 16.292969 5 z M 11 6 C 8.23 6 6 8.23 6 11 C 6 13.77 8.23 16 11 16 C 13.77 16 16 13.77 16 11 C 16 8.23 13.77 6 11 6 z M 11 7 C 13.216 7 15 8.784 15 11 C 15 13.216 13.216 15 11 15 C 8.784 15 7 13.216 7 11 C 7 8.784 8.784 7 11 7 z M 4 10 C 3.4460008 10 3 10.446001 3 11 C 3 11.553999 3.4460008 12 4 12 C 4.5539992 12 5 11.553999 5 11 C 5 10.446001 4.5539992 10 4 10 z M 18 10 C 17.446001 10 17 10.446001 17 11 C 17 11.553999 17.446001 12 18 12 C 18.553999 12 19 11.553999 19 11 C 19 10.446001 18.553999 10 18 10 z M 6.2929688 15 L 5 16.292969 L 5.7070312 17 L 7 15.707031 L 6.2929688 15 z M 15.707031 15 L 15 15.707031 L 16.292969 17 L 17 16.292969 L 15.707031 15 z M 11 17 C 10.446001 17 10 17.446001 10 18 C 10 18.553999 10.446001 19 11 19 C 11.553999 19 12 18.553999 12 18 C 12 17.446001 11.553999 17 11 17 z "
        transform="translate(553.72253,583.11926)"
-       id="rect4179" />
+       id="rect4148" />
   </g>
 </svg>

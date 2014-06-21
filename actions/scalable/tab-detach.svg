@@ -14,7 +14,7 @@
    id="svg3760"
    version="1.1"
    inkscape:version="0.48+devel r"
-   sodipodi:docname="tab-new.svg">
+   sodipodi:docname="tab-detach.svg">
   <defs
      id="defs3762" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="32.971017"
-     inkscape:cx="12.019312"
-     inkscape:cy="8.7247985"
+     inkscape:zoom="23.314029"
+     inkscape:cx="12.922368"
+     inkscape:cy="10.550578"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -111,8 +111,10 @@
      transform="translate(-553.72253,-583.11926)">
     <path
        style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
-       d="M 3 3 L 3 4 L 3 18 L 3 19 L 13 19 L 13 18 L 4 18 L 4 4 L 8 4 L 8 7 L 16 7 L 18 7 L 18 13 L 19 13 L 19 6 L 18 6 L 16 6 L 16 3 L 8 3 L 4 3 L 3 3 z M 16 14 L 16 16 L 14 16 L 14 17 L 16 17 L 16 19 L 17 19 L 17 17 L 19 17 L 19 16 L 17 16 L 17 14 L 16 14 z "
+       d="m 3,3 0,1 0,14 0,1 16,0 0,-1 L 19,6 18,6 16,6 9,6 9,5 9,3 8,3 4,3 Z m 7,0 0,2 8,0 0,-2 z m -6,1 4,0 0,3 8,0 2,0 0,11 -14,0 z"
        transform="translate(553.72253,583.11926)"
-       id="rect4179" />
+       id="rect4179"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
   </g>
 </svg>
