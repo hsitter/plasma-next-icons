@@ -85,15 +85,6 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,0.92105349,0,42.851946)" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4410"
-       id="linearGradient4275"
-       x1="20"
-       y1="18"
-       x2="40"
-       y2="38"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
        id="linearGradient4410"
        inkscape:collect="always">
       <stop
@@ -105,6 +96,15 @@
          offset="1"
          style="stop-color:#655c6f;stop-opacity:0" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4410"
+       id="linearGradient4187"
+       x1="391.57144"
+       y1="504.798"
+       x2="418.57144"
+       y2="531.79797"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -113,9 +113,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="45.191852"
-     inkscape:cy="18.706826"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="-58.636757"
+     inkscape:cy="-3.5529003"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -207,7 +207,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -285,11 +285,6 @@
        height="2"
        x="395.57144"
        y="536.79797" />
-    <path
-       style="fill:url(#linearGradient4275);fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.2"
-       d="M 40 9 L 40 42 L 8 42 L 10 44 L 42 44 L 42 11 L 40 9 z "
-       transform="translate(384.57143,499.798)"
-       id="path4264" />
     <rect
        style="opacity:1;fill:#aa7f41;fill-opacity:1;stroke:none"
        id="rect4171"
@@ -297,5 +292,10 @@
        height="0.9999736"
        x="390.57144"
        y="542.79797" />
+    <path
+       style="fill:url(#linearGradient4187);fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;opacity:0.2"
+       d="m 421.57143,509.798 5,5 0,28.99997 -7,0 7,3e-5 0,-4 0,1 -31,-31 z"
+       id="path4179"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

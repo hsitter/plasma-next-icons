@@ -61,6 +61,28 @@
        x2="24.000042"
        y2="5"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4227"
+       id="linearGradient4192"
+       x1="398.57144"
+       y1="513.79797"
+       x2="416.57147"
+       y2="531.79797"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-384.57143,-499.798)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4227">
+      <stop
+         style="stop-color:#292c2f;stop-opacity:1"
+         offset="0"
+         id="stop4229" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4231" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -69,9 +91,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16"
-     inkscape:cx="32.778619"
-     inkscape:cy="24.166833"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="1.5723465"
+     inkscape:cy="26.219461"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -256,6 +278,11 @@
        d="M 8 5 L 8 11 L 8 20.048828 C 9.6982811 20.291944 11 21.732384 11 23.5 C 11 25.267616 9.6982811 26.708056 8 26.951172 L 8 32.685547 C 11.783881 40.999084 24 41 24 41 L 34 41 L 40 34 L 40 30 L 38 30 L 38 20 L 40 20 L 40 11 L 40 10 L 40 9.8183594 L 40 5 L 38 5 L 11 5 L 8 5 z "
        transform="translate(384.57143,499.798)"
        id="rect4768" />
+    <path
+       style="fill:url(#linearGradient4192);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.2"
+       d="M 27.253906 13.253906 L 19.599609 21 L 42 43.900391 L 42 28 L 27.253906 13.253906 z "
+       transform="translate(384.57143,499.798)"
+       id="path4184" />
     <path
        style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none"
        d="m 395.57143,506.798 c -0.1385,0 -0.25,0.1115 -0.25,0.25 0,0.1385 0.1115,0.25 0.25,0.25 0.1385,0 0.25,-0.1115 0.25,-0.25 0,-0.1385 -0.1115,-0.25 -0.25,-0.25 z m 1.75,0 -0.5,0.5 0.75,0.75 -0.25,0.25 -0.25,0.25 -0.25,0.25 0.5,0.5 0.25,-0.25 0.25,-0.25 0.25,-0.25 0.5,-0.5 z m -2.375,1.5 c -0.20775,0 -0.375,0.16725 -0.375,0.375 0,0.20775 0.16725,0.375 0.375,0.375 0.20775,0 0.375,-0.16725 0.375,-0.375 0,-0.20775 -0.16725,-0.375 -0.375,-0.375 z m 1.125,1.5 c -0.277,0 -0.5,0.223 -0.5,0.5 0,0.277 0.223,0.5 0.5,0.5 0.277,0 0.5,-0.223 0.5,-0.5 0,-0.277 -0.223,-0.5 -0.5,-0.5 z"
